@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 from aiohttp import web
 
-API_TOKEN = os.getenv("BOT_TOKEN")
+API_TOKEN = os.getenv("7148141136:AAEOjL9FUSlQDTMXgMyO0fDay49O9a4egm4")
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
